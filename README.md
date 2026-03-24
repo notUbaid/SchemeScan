@@ -238,7 +238,7 @@ index.html
         <div>
           <img src="https://avatars.githubusercontent.com/Codieeri?s=120" width="120px;" height="120px;" alt="Yug"/>
         </div>
-        <div><strong>Team</strong></div>
+        <div><strong>Teammate</strong></div>
         <div><strong>Riya</strong></div>
         <a href="https://github.com/Codieeri">🌐 GitHub</a>
       </td>
