@@ -236,7 +236,7 @@ index.html
       </td>
       <td align="center" width="25%">
         <div>
-          <img src="https://avatars.githubusercontent.com/yuggandhii?s=120" width="120px;" height="120px;" alt="Yug"/>
+          <img src="https://avatars.githubusercontent.com/Codieeri?s=120" width="120px;" height="120px;" alt="Yug"/>
         </div>
         <div><strong>Team</strong></div>
         <div><strong>Riya</strong></div>
