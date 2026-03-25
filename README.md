@@ -1,4 +1,4 @@
-# 🚀 Policy Pilot — Offline AI Government Scheme Assistant
+# 🚀 SchemeScan — Offline AI Government Scheme Assistant
 
 > Your intelligent, fully offline navigator to discover **3400+ government schemes** — powered by local AI.
 
@@ -6,9 +6,9 @@
 
 ## 🌟 Overview
 
-**Policy Pilot** is an AI-powered assistant that helps users discover government schemes based on their personal profile — such as age, state, occupation, and income.
+**SchemeScan** is an AI-powered assistant that helps users discover government schemes based on their personal profile — such as age, state, occupation, and income.
 
-Unlike traditional platforms, Policy Pilot runs **completely offline**, powered by:
+Unlike traditional platforms, SchemeScan runs **completely offline**, powered by:
 
 * 🧠 Local LLM via **Ollama**
 * 🗄️ Structured database using **SQLite**
@@ -29,7 +29,7 @@ Millions of eligible citizens miss out on government benefits due to:
 
 ## 💡 Solution
 
-Policy Pilot solves this by:
+SchemeScan solves this by:
 
 * Understanding user queries in natural language
 * Running a **local AI model (Ollama)** to interpret intent
@@ -207,50 +207,15 @@ index.html
 
 ## 👨‍💻 Built By
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <div>
-          <img src="https://avatars.githubusercontent.com/Sam-bot-dev?s=120" width="120px;" height="120px;" alt="Bhavesh"/>
-        </div>
-        <div><strong>🧩 Head Teammate</strong></div>
-        <div><strong>Bhavesh</strong></div>
-        <a href="https://github.com/Sam-bot-dev">🌐 GitHub</a>
-      </td>
-      <td align="center" width="25%">
-        <div>
-          <img src="https://avatars.githubusercontent.com/notUbaid?s=120" width="120px;" height="120px;" alt="Ubaid khan"/>
-        </div>
-        <div><strong>⭐ Team Leader</strong></div>
-        <div><strong>Ubaid khan</strong></div>
-        <a href="https://github.com/niyatijoshi707-ai">🌐 GitHub</a>
-      </td>
-      <td align="center" width="25%">
-        <div>
-          <img src="https://avatars.githubusercontent.com/rhn9999?s=120" width="120px;" height="120px;" alt="Rohan"/>
-        </div>
-        <div><strong>Teammate</strong></div>
-        <div><strong>Kush</strong></div>
-        <a href="https://github.com/rhn9999">🌐 GitHub</a>
-      </td>
-      <td align="center" width="25%">
-        <div>
-          <img src="https://avatars.githubusercontent.com/Codieeri?s=120" width="120px;" height="120px;" alt="Yug"/>
-        </div>
-        <div><strong>Teammate</strong></div>
-        <div><strong>Riya</strong></div>
-        <a href="https://github.com/Codieeri">🌐 GitHub</a>
-      </td>
-    </tr>
-  </table>
-</p>
+**Bhavesh Kumar (Sam / Sammy)**
+B.Tech Computer Science (2028)
+AI • Robotics • Systems • Open Source
 
 ---
 
 ## 💬 Tagline
 
-> “Policy Pilot — AI that works for everyone, even without the internet.”
+> “SchemeScan — AI that works for everyone, even without the internet.”
 
 ---
 
