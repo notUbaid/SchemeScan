@@ -179,9 +179,9 @@ index.html
 
 ## 🧪 Example Queries
 
-* “I am a farmer in Gujarat with income below ₹1.5 lakh”
-* “Widow woman with BPL card in Rajasthan”
-* “Student from Maharashtra with low income”
+* “I am a farmer in Gujarat with income below ₹1.5 lakh.”
+* “Widow woman with BPL card in Rajasthan.”
+* “Student from Maharashtra with low income.”
 
 ---
 
